@@ -56,6 +56,8 @@ After build or Release commands the terminal console will show you localhost ser
 - Less folder contains `.less` files which will be compiled with `buble js` and concatenated into single file `style.css`, can be found in `dist` folder after building project.
 
 
+### About
+
 - The project is made to show the ability of my coding techniques and project architecture.
 
 - UI is made to be simple and clear as MVP from a front end perspective which needs UX improvements.
